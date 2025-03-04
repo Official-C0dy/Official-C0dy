@@ -3,8 +3,8 @@
 - 👋 Hi, I'm @C0dy
 - 🤵 20 Years old
 - 🔭 Currently working on:
- 	- <img src="https://i.ibb.co/ycRZQPhb/node4-1.gif" width="13"> [Node-Services](https://discord.com/Node-Services) - Discord Service for Bots and Web Applications
- 	- <img src="https://i.ibb.co/TMjkRFg1/Trade-Metrics-Logo.png" width="13"> [TradeMetrics](https://TradeMetrics.io) - Trading Journal Platform
+ 	- [Node-Services](https://discord.com/Node-Services) - Discord Service for Bots and Web Applications
+ 	- [TradeMetrics](https://TradeMetrics.io) - Trading Journal Platform
 	- Modern Web Applications with Next.js and React
 - 🗨️ Languages: 
     - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="12"> English
