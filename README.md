@@ -4,8 +4,8 @@
 - 🤵 20 Years old
 - 🔭 Currently working on:
  	- [Node-Services](https://discord.com/Node-Services) - Discord Service for Bots and Web Applications
- 	- [TradeMetrics](https://TradeMetrics.io) - Trading Journal Platform
 	- Modern Web Applications with Next.js and React
+   
 - 🗨️ Languages: 
     - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="12"> English
     - <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="12"> German
@@ -28,9 +28,6 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,discord)
 
 ### My Projects
-
-- **TradeMetrics** - A full-stack Trading Journal platform with user Authentication, Chart Analytics, and Payment integration.
-  - Technologies: Next.js, TypeScript, MySQL, Stripe
   
 - **Node-Services** - A Discord Service for Discord Bots and FiveM Bots and Web Applications.
   - Technologies: Next.js, TypeScript, Node.js, Express.js
