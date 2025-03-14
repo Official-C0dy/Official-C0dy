@@ -1,11 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1500&random=false&width=435&height=30&lines=Hi!++I'm+C0dy+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Full-Stack+Developer+%F0%9F%9A%80;Feel+free+to+contact+me+%F0%9F%A4%9D)
 
-- 👋 Hi, I'm @C0dy
+- 👋 Hi, I'm @Official-C0dy
 - 🤵 20 Years old
 - 🔭 Currently working on:
  	- [Node-Services](https://discord.com/Node-Services) - Discord Service for Bots and Web Applications
 	- Modern Web Applications with Next.js and React
-   
 - 🗨️ Languages: 
     - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="12"> English
     - <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="12"> German
@@ -35,9 +34,6 @@
 ### My Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Official-C0dy&theme=github-dark-blue&hide_border=true)
-
-#### Activity Last 7 Days
-<img alt="Top Langs" width="750" src="https://wakatime.com/share/@018c0bd0-42e0-4aee-9778-fabce28c0110/4eabf4c2-36c7-4a23-969f-f686a29e8720.svg">
 
 ![GitHub Diagram](https://github-readme-activity-graph.vercel.app/graph?username=Official-C0dy&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
 <!--
