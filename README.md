@@ -18,10 +18,10 @@
 ![Frontend](https://skillicons.dev/icons?i=react,js,ts,html,css,nextjs,tailwind)
 
 #### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,python,django,php,java)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,php)
 
 #### Database
-![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase)
+![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql)
 
 #### Tools & Others
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,discord)
